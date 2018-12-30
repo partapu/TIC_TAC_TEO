@@ -1,6 +1,6 @@
 # TIC_TAC_TEO
-Model predicts the winning of person in the game tic_tac_teo based on his moves in game
-The size of dataset is 569 * 10 (rows and columns)
+Model predicts the winning of person in the game tic_tac_teo based on his moves in the game.
+The size of dataset is 959 * 10 (rows and columns)
 The columns are and their lables:
 TL-TOP LEFT      (x,o,b)
 TM-TOP MIDDLE    (x,o,b)
